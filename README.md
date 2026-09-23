@@ -6,7 +6,7 @@
 
 # Laravel Ahrefs
 
-[![Tests](https://github.com/jeffersongoncalves/laravel-ahrefs/actions/workflows/run-tests.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-ahrefs/actions/workflows/run-tests.yml)
+[![Tests](https://github.com/jeffersongoncalves/laravel-ahrefs/actions/workflows/tests.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-ahrefs/actions/workflows/tests.yml)
 [![PHPStan](https://github.com/jeffersongoncalves/laravel-ahrefs/actions/workflows/phpstan.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-ahrefs/actions/workflows/phpstan.yml)
 [![Code Style](https://github.com/jeffersongoncalves/laravel-ahrefs/actions/workflows/fix-php-code-style-issues.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-ahrefs/actions/workflows/fix-php-code-style-issues.yml)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-ahrefs.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/laravel-ahrefs)
