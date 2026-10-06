@@ -1,6 +1,6 @@
 <div class="filament-hidden">
 
-![Laravel Ahrefs](https://raw.githubusercontent.com/jeffersongoncalves/laravel-ahrefs/master/art/jeffersongoncalves-laravel-ahrefs.png)
+![Laravel Ahrefs](https://raw.githubusercontent.com/jeffersongoncalves/laravel-ahrefs/main/art/jeffersongoncalves-laravel-ahrefs.png)
 
 </div>
 
